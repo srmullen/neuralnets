@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.11",
-    "mathjs": "^6.0.1",
+    "mathjs": "^7.5.1",
     "numjs": "^0.16.0",
     "plotly.js": "^1.48.1",
     "probability-distributions": "^0.9.1",
